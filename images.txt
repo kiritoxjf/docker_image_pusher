@@ -13,3 +13,5 @@ bespertrijun/ps
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
 linuxserver/transmission
+nastool/nas-tools:debian
+nastool/nas-tools:latest
