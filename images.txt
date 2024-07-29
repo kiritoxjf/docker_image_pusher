@@ -15,3 +15,4 @@ szzhoubanxian/reseed-puppy
 linuxserver/transmission
 nastool/nas-tools:debian
 nastool/nas-tools:latest
+jellyfin/jellyfin:latest
