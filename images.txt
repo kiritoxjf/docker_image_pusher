@@ -8,7 +8,7 @@ iyuucn/iyuuplus-dev
 jxxghp/moviepilot
 linuxserver/nextcloud
 library/postgres
-linuxserver/plex
+linuxserver/plex:latest
 bespertrijun/ps
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
